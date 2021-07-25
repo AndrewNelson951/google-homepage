@@ -1,0 +1,77 @@
+body {
+    background-color: white;
+}
+
+.navbarleft {
+}
+
+.navbarcenter {
+}
+
+.navbarright {
+    float: right;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    display: inline-block;
+    font-family:arial, sans-serif;
+    font-size: 13px;
+    font-stretch: 100%;
+    font-style: normal;
+    font-variant-caps: normal;
+    font-variant-east-asian: normal;
+    font-variant-ligatures: normal;
+    font-variant-numeric: normal;
+    font-weight: 400;
+    height: 24px;
+    line-height: 24px;
+    text-decoration-color: rgb(255, 255, 255);
+    text-decoration-line: none;
+    text-decoration-style: solid;
+    text-decoration-thickness: auto;
+    user-select: none;
+    vertical-align: middle;
+    white-space: nowrap;
+    width: 33.95px;
+}
+
+.main {
+    background-color: white;
+    margin: 20px;
+}
+
+.locationbar {
+    background-color: silver;
+    margin: 20px;
+}
+
+.bottombar {
+    background-color: silver;
+    margin: 20px;
+}
+
+.spaced {
+    font-family: 'Liberation Sans', Arial, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: rgb(34, 34, 34);
+    padding: 5px;
+    margin: 0px 5px 0px 15px;
+}
+
+.searchbutton {
+    background-color: gray;
+}
+
+.signin {
+    background-color: rgb(26, 115, 232);
+    vertical-align: middle;
+    text-align: center;
+    padding: 9px 23px 9px 23px;
+    margin-left: 8px;
+    margin-right: 8px;
+    font-weight: 500;
+    font-size: 14px;
+    color: rgb(255, 255, 255);
+    border-right-style: solid;
+    border-radius: 4px;
+}
